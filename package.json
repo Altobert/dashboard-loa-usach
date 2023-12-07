@@ -1,10 +1,10 @@
 {
   "name": "material-dashboard-2-react",
   "version": "2.2.0",
-  "private": true,
-  "author": "Creative Tim",
+  "private": false,
+  "author": "Alberto San Martin",
   "license": "See license in https://www.creative-tim.com/license",
-  "description": "React version of Material Dashboard 2 by Creative Tim",
+  "description": "React version modificada por Alberto San Martin",
   "bugs": {
     "url": "https://github.com/creativetimofficial/material-dashboard-react/issues"
   },
